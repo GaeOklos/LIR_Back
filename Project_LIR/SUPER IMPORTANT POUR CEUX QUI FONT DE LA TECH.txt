@@ -1,0 +1,7 @@
+SUPER IMPORTANT!!!
+SI VOUS TOUCHEZ A UNE STRUCTURE QUI SERT DANS D'AUTRE ACTEUR (ex une structure qui sert dans une data table etc etc),
+fermer Unreal sans Save les autres acteur impacté.
+
+Pourquoi:
+si vous sauvegarder les autres acteurs impacté, unreal va penser que ses acteurs on un problème de compile et du coup
+pour build ça donne envie de se crever les yeux tellement c'est relou a fix

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="Workspace" id="{a7388787-8571-4efc-abfd-ec0c184486e5}">
+		<property name="builtBanksOutputDirectory">
+			<value>../../../../../Desktop/Life is Ring/LifeisRing/Project_LIR/Content/FMOD</value>
+		</property>
+		<relationship name="masterEventFolder">
+			<destination>{432af9ac-d0c1-4ee7-b0fa-dd1db91b524c}</destination>
+		</relationship>
+		<relationship name="masterTagFolder">
+			<destination>{e28872c5-7505-4591-8f66-d2915d765fc5}</destination>
+		</relationship>
+		<relationship name="masterEffectPresetFolder">
+			<destination>{10a8fc51-ba27-4a1e-865c-19200ba7d6ab}</destination>
+		</relationship>
+		<relationship name="masterParameterPresetFolder">
+			<destination>{64e4c708-0703-45fa-a31d-625690490247}</destination>
+		</relationship>
+		<relationship name="masterBankFolder">
+			<destination>{59dfdf82-7dbd-4100-be2c-b6dd1f40f2fc}</destination>
+		</relationship>
+		<relationship name="masterSandboxFolder">
+			<destination>{5f122555-b479-4edf-bf20-cb3174bd8b87}</destination>
+		</relationship>
+		<relationship name="masterAssetFolder">
+			<destination>{b09f037d-a5cb-42ea-84c5-e6e0b3a9bc70}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{c8734ac6-1d19-450f-af31-516a42a730d2}</destination>
+		</relationship>
+		<relationship name="profilerSessionFolder">
+			<destination>{c6678dd9-74e1-44ec-82cd-5888b23797fd}</destination>
+		</relationship>
+		<relationship name="platforms">
+			<destination>{62ccc40c-8519-45b4-b0b4-3dc45c429b70}</destination>
+		</relationship>
+	</object>
+</objects>
